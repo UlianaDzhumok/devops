@@ -18,6 +18,7 @@ kubectl run prediction\
 kubectl get pods
 
 # Step 4:
-# Forward the container port to a host
-kubectl port-forward prediction 8000:80
+# Forward the container port to a host and print logs
+kubectl port-forward prediction 8000:80&
 
+kubectl logs -f prediction
