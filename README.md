@@ -1,5 +1,5 @@
-#Devops
-<include a CircleCI status badge, here>
+# Devops
+[![<ORG_NAME>](https://circleci.com/gh/UlianaDzhumok/devops.svg?style=svg)](https://circleci.com/gh/UlianaDzhumok/devops)
 
 ## Project Overview
 
